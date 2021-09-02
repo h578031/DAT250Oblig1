@@ -17,6 +17,6 @@ so I really had no problems with following the steps. One concept I struggled to
 
 I choose not to do the *Provision add-ons* step since it required account verification. 
 
-###URL to heroku app:
+### URL to heroku app:
 
 https://quiet-dusk-26156.herokuapp.com/
