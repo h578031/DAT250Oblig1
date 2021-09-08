@@ -8,7 +8,16 @@ I struggled a little bit about how to inspect the database tables but I first in
 that came together with Derby. I did not really like ij so I connected to the database using DBeaver instead ( I also found out that IntelliJ has an integrated database tool, 
 but I still prefer DBeaver).
 
-![First experiment](![Screenshot 2021-09-08 165226](https://user-images.githubusercontent.com/42749439/132532968-e4fc3bd2-29af-4f49-a4bf-2f3e2ec4b65c.png)
+
+
+![Test](https://user-images.githubusercontent.com/42749439/132532968-e4fc3bd2-29af-4f49-a4bf-2f3e2ec4b65c.png)
+
+![Experiment 1](https://user-images.githubusercontent.com/42749439/132533518-991a2a77-41d0-4da9-bf24-3171e831e2d6.png)
+
+
+
+
+
 
 
 
