@@ -30,11 +30,19 @@ the bank as the owner over the creditcards relationship.
 
 
 ### Second try
-Here I made Person the owner over Address and Bank the owner over Creditcards.
+Here I made Person the owner over Address and Bank the owner over Creditcards so that a join table between creditcard and bank was generated. 
 ![Screenshot 2021-09-08 171845](https://user-images.githubusercontent.com/42749439/132537394-52b14dc0-38fc-4ae7-8959-45a93324e1a2.png)
 
 
+## Link to Code
 
+#### Experiment 1
+
+https://github.com/h578031/DAT250Assignment2Ex1
+
+#### Experiment 2
+
+https://github.com/h578031/DAT250Assignment2Ex2
 
 
 
