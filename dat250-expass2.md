@@ -19,8 +19,7 @@ but I still prefer DBeaver).
 
 ## Experiment 2
 
-In the second experiment I had some problems with remembering the details around ownership of associations but after I rewatched the video I managed to create the
-correct correct database. 
+In the second experiment I had some problems with remembering the details around ownership of associations but after I rewatched the video I managed to create a database that looked ok.  
 
 
 ### First try
