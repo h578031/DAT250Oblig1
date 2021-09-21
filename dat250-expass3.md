@@ -60,5 +60,6 @@ Map-reduce funtion to show how much was earned on each date.
 
 ![redFunc](https://user-images.githubusercontent.com/42749439/134196112-6a8f13b8-4ed6-45e2-9e27-370585c26f79.png)
 
+![mapredRes](https://user-images.githubusercontent.com/42749439/134196447-78144ea1-0f5d-48f4-8925-532f8027f9c8.png)
 
-![mapRedFirst](https://user-images.githubusercontent.com/42749439/134196137-bbd8a2f1-449b-44e9-8337-41b8a5f550f6.png)
+
