@@ -11,6 +11,7 @@ In the second experiment I started a new project from scratch but took a lot of 
 The methods I made were two get methods, one for all todo objects and one for a specific todo object, a post method, a put method and a delete which deleted a specific todo object.
 
 Return from postman when using get
+
 ![todoWebApi](https://user-images.githubusercontent.com/42749439/134335976-0b1c3bc5-4264-4693-8233-daf36f3f1d76.png)
 
 ## Ex 3
