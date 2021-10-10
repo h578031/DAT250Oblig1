@@ -12,7 +12,8 @@ Code: https://github.com/h578031/DAT250Ex6/tree/master/Ex6-SpringBootMVC
 
 ## Ex 2: React turorial
 
-The react tutorial was more fun to complete. The goal was to create a tic-tac-toe game and went trough lots of important concepts within react. 
+The react tutorial was more fun to complete. The goal was to create a tic-tac-toe game and went trough lots of important concepts within react.
+I have used react before but never had time to follow a guide so it helped with my understanding.   
 
 ![image](https://user-images.githubusercontent.com/42749439/136700544-54f3afd0-c620-4a01-9c5e-6f8a7525b542.png)
 
